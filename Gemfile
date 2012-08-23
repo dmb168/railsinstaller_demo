@@ -7,6 +7,8 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 gem 'pg', :group => :production
+gem 'bcrypt-ruby', '~> 3.2.1', :platform => 'ruby' 
+gem 'bundler', '~> 1.0.17' 
 
 
 # Gems used only for assets and not required
